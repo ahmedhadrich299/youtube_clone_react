@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 
+The link to live demo : https://youtube-clone-66.netlify.app/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
